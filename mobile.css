@@ -386,7 +386,12 @@ main {
     background-image: url("./assets/icons/arrow-right.svg");
     vertical-align: text-bottom;
 }
-
+.warning-prices {
+    margin-top: 20px;
+}
+.warning-prices p {
+    font-size: 1rem;
+}
 
 footer {
     display: flex;
